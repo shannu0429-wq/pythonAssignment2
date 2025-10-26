@@ -7,4 +7,4 @@ if the condition is true the the given number is even otherwise the given number
 In the second task  Sum of Integers from 1 to 50 Using a Loop
 In this task let us consider a variable sum and intialize the vaue to zero
 by using for loop of range 1 to 51 only because the last number will not include and the loop performs the repeatedly until the condition is false
-and if the condition is false the controller terminates the out of the loop.
+and if the condition is false the controller terminates the out of the loop and finally it prints the result with help of print() function.
